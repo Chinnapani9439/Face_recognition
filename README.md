@@ -37,5 +37,16 @@ The vgg_face function defines the VGG Face model, which is a convolutional neura
 - Run the commend ```streamlit run app.py```
 
 
-## **Enjoy using the Face Recognition App!**
+## **Streamlit APP Images**
 
+step: 1
+![image](https://github.com/Chinnapani9439/Face_recognition/blob/main/Picture1.png)
+
+step: 2
+![image](https://github.com/Chinnapani9439/Face_recognition/blob/main/Picture2.png)
+
+step: 3
+![image](https://github.com/Chinnapani9439/Face_recognition/blob/main/Picture3.png)
+
+
+## **Enjoy using the Face Recognition App!**
